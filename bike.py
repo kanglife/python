@@ -1,4 +1,4 @@
-#네이버 쇼핑에서 혼다 125CC 긁어 오는 코드
+#네이버 쇼핑에서 혼다 125CC 긁어 오는 코드 크롤링 
 # 정리
 import time
 from bs4 import BeautifulSoup
